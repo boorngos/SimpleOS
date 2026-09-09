@@ -44,6 +44,7 @@ Confirm overlay actions with **A** or **START**.
 | Save state | **Anbernic** + **R2** |
 | Toggle FPS (off by default) | **Anbernic** + **X** |
 | Volume | Volume **+** / **−** |
+| Microphone| **R3**|
 | Brightness (both screens) | **Anbernic** + **L1** down / **MENU** + **R1** up |
 | Sleep | Tap **POWER** / close the lid |
 | Power off | Hold **POWER** |
