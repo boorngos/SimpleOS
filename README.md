@@ -27,7 +27,7 @@ SimpleOS replaces the multi-system frontend with a DS-only shell:
 
 ## Installation
 
-Latest package: [`releases/SimpleOS-RGDS-20260908.zip`](https://github.com/boorngos/SimpleOS/releases/tag/v1.0.0)
+Latest package: [`releases/SimpleOS-RGDS-20260908.zip`](https://github.com/boorngos/SimpleOS/releases/tag/V1.0-SimpleOS)
 
 1. Flash official Anbernic Linux on the TF card.
 2. On a PC, open the user partition (the one with `Roms/`).
