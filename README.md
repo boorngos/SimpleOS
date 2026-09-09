@@ -49,6 +49,7 @@ Full steps, updates, and how to return to Anbernic stock OS:
 | Change title in the menu | **L** / **R** (D-pad left / right) |
 | Fast-forward | **Anbernic** + **SELECT** |
 | Load / save state | **Anbernic** + **L2** / **R2** |
+| Microphone| **R3**|
 | Toggle FPS | **Anbernic** + **X** |
 | Brightness | **Anbernic** + **L1** / **R1** |
 | Sleep | Tap **POWER** or close the lid |
