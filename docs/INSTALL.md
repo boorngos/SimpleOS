@@ -19,9 +19,11 @@ firmware.
 
 ## Install
 
-1. Flash the SD card with Anbernic's Linux firmware
-2. On a PC, open the **user partition** (next to `Roms/`, `anbernic/`, …).
-3. Extract the **contents** of the zip into the **root** of that partition:
+1. Flash an SD card with Anbernic's Linux firmware (using rufus or win32DiskImager)
+2. Insert the SD card on your device and wait until the initial process is finished.
+3. Eject the SD card and plug it back on your computer
+4. Open the **user partition** (next to `Roms/`, `anbernic/`, …).
+5. Extract the **contents** of the zip into the **root** of that partition:
 
    ```
    simpleos/
@@ -33,11 +35,13 @@ firmware.
 
    If Windows asks to merge `Roms/`, confirm. Do not leave everything inside a
    nested folder named `SimpleOS-RGDS-…`.
-4. Eject the card, insert it in the RG DS, power on.
-5. In the Anbernic menu: **APPS → Install SimpleOS**.
+6. Eject the card, insert it in the RG DS, power on.
+7. In the Anbernic menu move to: **Applications → APPS** and then click on the *Install SimpleOS* script.
    SimpleOS splash screens appear on both displays. Do not power off.
-6. When it finishes, the device reboots into SimpleOS
-7. If the top screen doesn't come app: press **start → reboot**
+8. When it finishes, the device reboots into SimpleOS
+9. If the top screen doesn't come up: press **start → reboot**
+10. Now you can add you roms the usual way or in *simpleos/games*
+11. Enjoy!
 
 Games go in `simpleos/games` and/or the stock NDS folder (`Roms/NDS`).
 
