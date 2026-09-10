@@ -58,6 +58,10 @@ Full steps, updates, and how to return to Anbernic stock OS:
 Complete tables for home, options, and in-game:
 **[docs/CONTROLS.md](docs/CONTROLS.md)**
 
+## Showcase trailer
+
+[![SimpleOS v1.0 trailer](https://img.youtube.com/vi/2NWOfQFL8Fs/default.jpg)](https://youtu.be/2NWOfQFL8Fs)
+
 ## Credits
 - [MechanicalDragon0687](https://github.com/MechanicalDragon0687) - for his work on [ndsForwarder](https://github.com/MechanicalDragon0687/NDSForwarder?tab=readme-ov-file) that helped massively on how to retrieve menu images from nds game backups
 - [Shauninman](https://github.com/shauninman.com) - for the general idea and layout of the OS
