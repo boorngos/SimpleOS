@@ -60,7 +60,9 @@ Complete tables for home, options, and in-game:
 
 ## Showcase trailer
 
-[![SimpleOS v1.0 trailer](https://img.youtube.com/vi/2NWOfQFL8Fs/default.jpg)](https://youtu.be/2NWOfQFL8Fs)
+<a href="https://youtu.be/VN8mWzVBWzw" target="_blank">
+ <img src="http://img.youtube.com/vi/VN8mWzVBWzw/maxresdefault.jpg" alt="Watch the video" width="1920" height="1080" border="10" />
+</a>
 
 ## Credits
 - [MechanicalDragon0687](https://github.com/MechanicalDragon0687) - for his work on [ndsForwarder](https://github.com/MechanicalDragon0687/NDSForwarder?tab=readme-ov-file) that helped massively on how to retrieve menu images from nds game backups
