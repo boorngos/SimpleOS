@@ -30,7 +30,9 @@ Current game:
 | RESUME | Close the overlay and continue |
 | SAVE | Save state |
 | LOAD | Load state |
+|SLOT <>|Select current save state slot|
 | ARCHIVE | Open the library menu |
+|EMULATOR| Open emulator settings|
 | RESET | Reset the emulator |
 
 
@@ -40,11 +42,11 @@ Confirm overlay actions with **A** or **START**.
 
 | Action | Control |
 | --- | --- |
-| Fast-forward (DraStic, toggle) | **Anbernic** + **SELECT** |
+| Fast-forward (toggle) | **Anbernic** + **SELECT** |
 | Load state | **Anbernic** + **L2** |
 | Save state | **Anbernic** + **R2** |
 | Toggle FPS (off by default) | **Anbernic** + **X** |
-| Microphone| **R3**|
+| Microphone (drastic)| **R3**|
 |CPU-GPU governor| **Anbernic + RS** (up)|
 | Volume | Volume **+** / **−** |
 | Brightness (both screens) | **Anbernic** + **L1** (down) / **MENU** + **R1** (up) |
