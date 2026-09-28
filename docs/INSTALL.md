@@ -23,7 +23,7 @@ firmware.
 2. Insert the SD card on your device and wait until the initial process is finished.
 3. Eject the SD card and plug it back on your computer
 4. Open the **user partition** (next to `Roms/`, `anbernic/`, …).
-5. Extract the **contents** of the zip into the **root** of that partition:
+5. **Enable hidden folders** in your file explorer and extract the **contents** of the zip into the **root** of that partition. :
 
    ```
    simpleos/
@@ -48,7 +48,7 @@ Games go in `simpleos/games` and/or the stock NDS folder (`Roms/NDS`).
 ## Update
 ### ⚠️If you are on version 1.0⚠️
 1. Download version 1.1 from the release page
-2. Extract the .zip file into **SimpleOS-RGDS-20260912**
+2. **Enable hidden folders** in your file explorer and extract the .zip file into **SimpleOS-RGDS-20260912**
 3. Turn on WiFi and SSH on your device if they are off
 4. Open WinSCP on your windows computer and login into your device by typing: **IP, user = root, password = root**
 6. From SSH copy the *system* folder into */mnt/mmc/simpleos/* inside your device. Overwrite files if prompted
