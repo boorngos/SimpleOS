@@ -21,7 +21,7 @@ SimpleOS replaces the multi-system frontend with a DS-only shell:
 
 1. **Fast start**
 2. **DS library only** — `.nds` / `.dsi` / `.zip`. No other systems at runtime.
-3. **DSi-like UI** 
+3. **Minimal UI** 
 4. **In-game menu**
 
 
