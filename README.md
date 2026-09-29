@@ -27,11 +27,18 @@ SimpleOS replaces the multi-system frontend with a DS-only shell:
 
 ## Installation
 
-Latest package: [`releases/SimpleOS-RGDS-20260908.zip`](https://github.com/boorngos/SimpleOS/releases/tag/V1.0-SimpleOS)
+<a href="https://www.youtube.com/watch?v=tVu_a6XEdkI" target="_blank">
+ <img src="http://img.youtube.com/vi/tVu_a6XEdkI/maxresdefault.jpg" alt="Watch the video" width="1920" height="1080" border="10" />
+</a>
+
+Credits to [superphunthyme](https://www.youtube.com/@superphunthyme) for the installation video!
+\
+\
+Latest package: [`releases/SimpleOS-RGDS-20260927.zip`](https://github.com/boorngos/SimpleOS/releases/tag/v1.3-SimpleOS)
 
 1. Flash official Anbernic Linux on the TF card.
 2. On a PC, open the user partition (the one with `Roms/`).
-3. Extract the zip **into that directory** (merge `Roms/` if Windows asks).
+3. **Enable hidden folders** in your file explorer and extract the zip **into that directory** (merge `Roms/` if Windows asks).
 4. Boot the RG DS
 5. Go into **APPS → Install SimpleOS**.
 6. Wait until the process is finished
