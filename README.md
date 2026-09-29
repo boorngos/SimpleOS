@@ -27,8 +27,8 @@ SimpleOS replaces the multi-system frontend with a DS-only shell:
 
 ## Installation
 
-<a href="https://www.youtube.com/watch?v=tVu_a6XEdkI" target="_blank">
- <img src="http://img.youtube.com/vi/tVu_a6XEdkI/maxresdefault.jpg" alt="Watch the video" width="1920" height="1080" border="10" />
+<a href="https://youtu.be/_Ij0QEtqTic" target="_blank">
+ <img src="http://img.youtube.com/vi/_Ij0QEtqTic/maxresdefault.jpg" alt="Watch the video" width="1920" height="1080" border="10" />
 </a>
 
 Credits to [superphunthyme](https://www.youtube.com/@superphunthyme) for the installation video!
