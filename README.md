@@ -1,3 +1,6 @@
+# ❗Disclaimer❗
+This project has been built using **AI assistance**. If you deprecate the use of AI and, legitimately, do not want to forage in any way AI companies, don't support this project. 
+
 <p align="center">
   <img src="docs/images/logo.png" alt="SimpleOS for Anbernic RG DS" width="720">
 </p>
