@@ -53,3 +53,15 @@ Confirm overlay actions with **A** or **START**.
 | Sleep | Tap **POWER** / close the lid |
 | Power off | Hold **POWER** |
 
+
+## Pokedaisy🌼 shortcuts
+| Action | Control |
+| --- | --- |
+| Close rom | **X** + **Y** |
+| Close Pokedaisy | **Anbernic** + **START** |
+| Quick menu/wheel | **L3** |
+|CPU-GPU governor| **Anbernic + RS** (up)|
+| Volume | Volume **+** / **−** |
+| Brightness (both screens) | **Anbernic** + **L1** (down) / **MENU** + **R1** (up) |
+| Sleep | Tap **POWER** / close the lid |
+| Power off | Hold **POWER** |
