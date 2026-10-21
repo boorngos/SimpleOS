@@ -29,14 +29,6 @@ SimpleOS replaces the multi-system frontend with a DS-only shell:
 
 
 ## Installation
-
-<a href="https://youtu.be/_Ij0QEtqTic" target="_blank">
- <img src="http://img.youtube.com/vi/_Ij0QEtqTic/maxresdefault.jpg" alt="Watch the video" width="1920" height="1080" border="10" />
-</a>
-
-Credits to [superphunthyme](https://www.youtube.com/@superphunthyme) for the installation video!
-\
-\
 Latest package: [`releases/SimpleOS-RGDS-20260927.zip`](https://github.com/boorngos/SimpleOS/releases/tag/v1.3-SimpleOS)
 
 1. Flash official Anbernic Linux on the TF card.
@@ -80,3 +72,4 @@ Complete tables for home, options, and in-game:
 - [jdgleaver](https://github.com/jdgleaver) - for the shader pack used in SimpleOS
 - [TiagosMs](https://github.com/TiagosMs) - [for the NDDSS addition](https://github.com/TiagosMs/SimpleOS-NNDDSS-support)
 - [beboono - Noxwell](https://github.com/beebono) - for the DSperate emulator (https://github.com/beebono/DSperate)
+- [lidor30  - Lidor](https://github.com/lidor30) for his work on the [Pokedaisy🌼 app](https://github.com/lidor30/pokedaisy)
