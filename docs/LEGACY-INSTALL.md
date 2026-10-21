@@ -19,6 +19,12 @@ firmware.
 
 ## Install
 
+<a href="https://youtu.be/_Ij0QEtqTic" target="_blank">
+ <img src="http://img.youtube.com/vi/_Ij0QEtqTic/maxresdefault.jpg" alt="Watch the video" width="1920" height="1080" border="10" />
+</a>
+
+Credits to [superphunthyme](https://www.youtube.com/@superphunthyme) for the installation video!
+
 1. Flash an SD card with Anbernic's Linux firmware (using rufus or win32DiskImager)
 2. Insert the SD card on your device and wait until the initial process is finished.
 3. Eject the SD card and plug it back on your computer
