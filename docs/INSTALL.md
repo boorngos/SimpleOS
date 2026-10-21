@@ -17,6 +17,39 @@ The release zip `releases/SimpleOS-RGDS-YYYYMMDD.zip` from this repository.
 7. Enjoy
 Games go in `simpleos/games` and/or the folder (`roms/nds`) on the roms partition .
 
+## Roms partition structure
+
+```bash
+├── bios
+├── logs
+├── nnddss
+├── roms
+│   ├── apps
+│   ├── nds
+│   ├── ports
+│   │   └── Ports
+│   │       └── pokedaisy
+│   │           ├──  backups
+│   │           ├── roms
+│   │           ├── saves
+│   │           ├── share
+│   │           ├── states
+│   │           └── pokedaisy
+├── saves
+│   ├── drastic
+│   │   ├── backup
+│   │   └── savestates
+│   ├── dsperate
+│   │   ├── backup
+│   │   └── savestates
+│   └── NNDDSS
+│   │   ├── backup
+│   │   └── savestates
+├── simpleos
+└── userdata
+
+```
+
 ## Update
 **If you have WiFi access on your device**🛜
 1. Turn on WiFi connection from the **Network settings** on your device
